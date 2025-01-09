@@ -22,8 +22,7 @@ $STD apt-get install -y \
   xvfb \
   libxcomposite1 \
   libegl1 \
-  libopengl0 \
-  libxcb-cursor0
+  libopengl0
 msg_ok "Installed Dependencies"
 
 msg_info "Installing Calibre"
